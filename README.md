@@ -90,7 +90,7 @@ Allow for Active Directory to be installed. Once installation is complete, resta
 Make sure to enter your user name as yourdomainnamehere.com\accountusernamehere when you log back into the domain controller. 
 </p>
 <p>
-<img src="https://imgur.com/g6tQX3C.png" height="70%" width="70%" alt="Complete AD Install"/>
+<img src="https://i.imgur.com/g6tQX3C.png" height="70%" width="70%" alt="Complete AD Install"/>
 </p>
 <br />
 
@@ -98,7 +98,7 @@ Make sure to enter your user name as yourdomainnamehere.com\accountusernamehere 
 Create two Organizational Units (OU) with the names "_EMPLOYEES" and "_ADMINS" in Active Directory Users and Computers (ADUC).
 </p>
 <p>
-<img src="https://imgur.com/BLEvF7l.png" height="70%" width="70%" alt="OU_Setup"/>
+<img src="https://i.imgur.com/BLEvF7l.png" height="70%" width="70%" alt="OU_Setup"/>
 </p>
 <br />
 
