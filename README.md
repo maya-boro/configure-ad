@@ -128,7 +128,7 @@ Please note that the computer will restart after this is completed.
 <br />
 
 <p>
-Log in to the client virtual machine under the admin account created previously during the organizational unit’s setup, open system properties, and click on "Remote Desktop." Allow "domain users" access to the remote desktop. Normal, non-administrative users can now log into the client virtual machine.
+Lastly, log in to the client virtual machine under the admin account created previously during the organizational unit’s setup, open system properties, and click on "Remote Desktop." Allow "domain users" access to the remote desktop. Normal, non-administrative users can now log into the client virtual machine.
 </p>
 <p>
 <img src="https://i.imgur.com/TIatFo2.png" height="70%" width="70%" alt="Remote Desktop Access"/>
